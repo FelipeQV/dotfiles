@@ -16,6 +16,16 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"ApplySyntax",
+		"BracketHighlighter",
+		"Emmet",
+		"ERB Snippets",
+		"Git",
+		"GitGutter",
+		"JSX",
+		"SCSS",
 		"Vintage"
 	],
 	"remember_open_files": false,

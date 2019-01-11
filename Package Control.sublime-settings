@@ -2,6 +2,16 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"ApplySyntax",
+		"BracketHighlighter",
+		"Emmet",
+		"ERB Snippets",
+		"Git",
+		"GitGutter",
+		"JSX",
+		"SCSS"
 	],
 	"installed_packages":
 	[
